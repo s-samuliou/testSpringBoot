@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
-@Service
+
 public class TravelTicketServiceImpl implements TravelTicketService {
 
     private static final Logger log = LoggerFactory.getLogger(TravelServiceImpl.class);
